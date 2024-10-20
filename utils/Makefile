@@ -1,3 +1,4 @@
+# makefile for .net katas
 SOLUTION_NAME = FizzBuzz
 TEST_PROJECT = FizzBuzz.Tests
 LIB_PROJECT = FizzBuzz
